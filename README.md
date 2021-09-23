@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 
  <img  align="center" width="100%" src="./coding.gif">
- # Hi there 👋
- ## I'm Noon.
+ 
+ <h1>Hi there 👋</h1>
+ 
+ <h2> I'm Noon.</h2>
+ 
 - 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

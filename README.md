@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am a pug lover!! and Japanese manga/Anime for life.
 -->
 
-# Hi there 👋
- <img  align="center" width="100%" src="./giphy.gif"/>
-## I'm Noon.
+
+ <img  align="center" width="100%" src="./coding.gif">
+ # Hi there 👋
+ ## I'm Noon.
+
+ </img>
 
 - 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...

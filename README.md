@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am a pug lover!! and Japanese manga/Anime for life.
 -->
-# Hi there 👋
 
+# Hi there 👋
+ <img  align="center" src=".giphy.gif"/>
 ## I'm Noon.
 
 - 🔭 I’m currently working on ...  

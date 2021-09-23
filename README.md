@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋
- <img  align="center" src=".giphy.gif"/>
+ <img  align="center" src="./giphy.gif"/>
 ## I'm Noon.
 
 - 🔭 I’m currently working on ...  

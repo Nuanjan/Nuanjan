@@ -96,7 +96,10 @@ Here are some ideas to get you started:
   
   <br>
   <p align="center">
-  
+</p>
+<br>
+  <p align="center">
+  <img src="https://github-Nuanjan-contribution.svg" alt="snake"></center>
 </p>
 
 ---

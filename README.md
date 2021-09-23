@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <h3><b>Please stay in touch</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/nuanjan/" target="_blank">
+<a href="https://www.linkedin.com/in/noon-schluntz/" target="_blank">
   <img align="center" alt="Noon Schluntz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/NuanjanSchluntz" target="_blank">

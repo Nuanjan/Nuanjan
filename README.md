@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Nuanjan&theme=merko&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=merko&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nuanjan&theme=merko&hide_border=true" />
 
 </td>
 

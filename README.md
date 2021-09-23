@@ -3,18 +3,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... my Web fundamental projects
+- 🌱 I’m currently learning ... Front end Technologies....
+- 👯 I’m looking to collaborate on ... Open Source
+- 🤔 I’m looking for help with ... Anything!
+- 💬 Ask me about ... Pugs Thailand spicy food
+- 📫 How to reach me: ... click connect iocn below.
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I am a pug lover!! and Japanese manga/Anime for life.
+-->
+# Hi there 👋
+
+## I'm Noon.
+
+- 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋
-
-## I'm Noon.
+- ⚡ Fun fact: ..
 
 <table border="0" align="center">
 <tr border="0">

@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 </p>
 <br>
   <p align="center">
-  <img src="https://github-Nuanjan-contribution.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/${{github.Nuanjan}}/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 ---
